@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"bc7c0fa7-a7ef-434f-9623-32a69e8f5527","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "PONG",
+    "path": "folders/Sprites/PONG.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_start",

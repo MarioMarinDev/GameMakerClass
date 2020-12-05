@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"71bf376b-60fe-4569-9444-924c085f763d","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "PONG",
+    "path": "folders/Sprites/PONG.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_pong_ball",
